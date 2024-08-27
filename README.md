@@ -1,21 +1,17 @@
 # CityNews Aggregator
 
-![CityNews Aggregator Logo](https://example.com/logo.png)  <!-- Replace with your logo URL -->
+![CityNews Aggregator Logo](images/logo.png)
 
 ## Description
-
-CityNews Aggregator is a web application designed to provide the latest news based on the user's location. With a clean and intuitive interface, users can easily enter their city or region to receive up-to-date news articles tailored to their location.
+CityNews Aggregator is a web application that provides the latest news based on user location. Users can enter their city or region to get the latest news articles.
 
 ## Features
-
-- **Geolocation-Based News Fetching:** Automatically retrieves news based on the user's current location or a specified city.
-- **Comprehensive News Display:** Showcases the latest news articles with titles, descriptions, and publication dates.
-- **Professional Design:** Features a sleek and modern design with animated transitions for a seamless user experience.
+- Fetches news based on user location using geolocation.
+- Displays latest news articles with titles, descriptions, and publication dates.
+- Simple and professional design with animated news entries.
 
 ## Installation
 
-Follow these steps to set up the project locally:
-
-1. **Clone the Repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/MhmdSalman18/CityNews-Aggregator.git
