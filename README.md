@@ -1,6 +1,6 @@
 # CityNews Aggregator
 
-![CityNews Aggregator Logo](images/logo.png)
+![CityNews Aggregator Logo](images/images/logo.png)
 
 ## Description
 CityNews Aggregator is a web application that provides the latest news based on user location. Users can enter their city or region to get the latest news articles.
