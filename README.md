@@ -10,6 +10,9 @@ CityNews Aggregator is a modern web application designed to deliver the latest n
 - **Dynamic Content:** Real-time updates with the latest news headlines, summaries, and publication times.
 - **Professional Design:** Clean and responsive interface with smooth animations for an engaging user experience.
 
+## Live Demo
+You can check out the live version of CityNews Aggregator by visiting [CityNews Aggregator Live Demo](https://your-live-link-here.com).
+
 ## Getting Started
 
 Follow these steps to set up and run the CityNews Aggregator on your local machine:
