@@ -133,11 +133,13 @@ USE_TZ = True
 
 
 # news_project/settings.py
-STATIC_URL = '/static/'
-STATICFILES_DIRS = [
-    BASE_DIR / "staticfiles",  # Ensure this path is correct
-]
+STATIC_URL = '/static/'  # This is usually already set
+
+# Add this line to specify the directory where static files will be collected
+STATIC_ROOT = BASE_DIR / 'staticfiles'  # Or any other appropriate path
+
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 # Default primary key field type
