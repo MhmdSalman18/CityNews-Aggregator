@@ -35,7 +35,7 @@ GNEWS_API_KEY = os.getenv('GNEWS_API_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['your-app.onrender.com']
+ALLOWED_HOSTS = ['citynews-aggregator.onrender.com', 'localhost', '127.0.0.1']
 
 
 
